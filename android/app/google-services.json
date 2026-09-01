@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175333885943",
+    "project_id": "schooly-cfb30",
+    "storage_bucket": "schooly-cfb30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175333885943:android:9a5aa899e7b0e15fa090f2",
+        "android_client_info": {
+          "package_name": "com.example.schooly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMzgYVE0_N8EWGz1wvr9zl8IMduAewY3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
